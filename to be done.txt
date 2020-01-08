@@ -1,0 +1,7 @@
+choose icon
+player name
+single player mode
+reset cookie after game complete
+check cookie before opening game
+
+implement new logic
